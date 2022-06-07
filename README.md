@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Md Mamun Sikder
 - 👀 I’m interested in developing web application using Java (JEE/Jakarta 8/9) and Ruby on Rails
-- 🌱 I’m currently learning Node Based Framework
+- 🌱 I’m currently learning Node Based Frameworks.
 - 💞️ I’m looking to collaborate on any open source project and properitory software.
 - 📫 You can reach me at : gmamuns@gmail.com
 
